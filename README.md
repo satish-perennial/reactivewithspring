@@ -11,3 +11,5 @@ http://localhost:8080/api/student/simple?limit=10&page=0
 
 Load Testing with Jmeter 
 
+You can find Jmeter file under the root derectory named List All Student.jmx
+
